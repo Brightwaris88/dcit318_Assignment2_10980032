@@ -33,7 +33,8 @@ class Program
         Cat cat = new Cat();
 
         animal.MakeSound();
-        dog.MakeSound();
         cat.MakeSound();
+        dog.MakeSound();
+        
     }
 }
